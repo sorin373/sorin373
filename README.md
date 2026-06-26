@@ -1,4 +1,3 @@
-```markdown
 # Hi, I'm Sorin-Andrei Tudose 👋
 
 Aerospace Engineering student at the **University POLITEHNICA of Bucharest** and **Spacecraft Structures Engineering Apprentice** within the **ROSPIN-SAT-1 CubeSat mission**.
@@ -58,4 +57,3 @@ Fortran and Python implementations of interpolation, regression, differential eq
 ## 🔗 Connect
 
 [LinkedIn](https://www.linkedin.com/in/sorin-andrei-tudose-b5a931246/)
-```
