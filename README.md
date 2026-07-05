@@ -7,12 +7,14 @@ I’m an Aerospace Engineering student focused on propulsion, structural mechani
 
 ## Technical Focus
 
-Aerospace Propulsion        Structural Mechanics
-Rocket Engine Concepts      Materials & Stress Analysis
-Numerical Methods           Engineering Simulation
-Scientific Computing        Programming for Engineering
-Data Analysis               Simulation Workflows
-Python / C++ / MATLAB       Technical Problem Solving
+| Aerospace Engineering | Programming & Simulation |
+|---|---|
+| Aerospace propulsion | Python / C++ / MATLAB |
+| Rocket engine fundamentals | Numerical methods |
+| Structural mechanics | Engineering simulation |
+| Materials & stress analysis | Scientific computing |
+| Technical problem solving | Data analysis |
+| Simulation workflows | Programming for engineering |
 
 ## Tools & Languages
 
