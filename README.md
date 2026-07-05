@@ -9,9 +9,6 @@
 </div>
 
 ---
-
-## About Me
-
 I’m an Aerospace Engineering student focused on propulsion, structural mechanics, and the role of programming in solving engineering problems. This profile brings together my academic work, coding projects, and technical experiments related to analysis, simulation, and scientific computing.
 
 
