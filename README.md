@@ -12,9 +12,8 @@
 
 ## About Me
 
-I am an Aerospace Engineering student interested in propulsion, structural mechanics, and the use of programming for engineering applications.
+I’m an Aerospace Engineering student focused on propulsion, structural mechanics, and the role of programming in solving engineering problems. This profile brings together my academic work, coding projects, and technical experiments related to analysis, simulation, and scientific computing.
 
-My GitHub is a place where I document academic projects, programming work, and small technical tools related to engineering analysis, simulation, and scientific computing.
 
 ---
 
@@ -36,15 +35,3 @@ Scientific Computing     Technical Programming
   <img src="https://img.shields.io/badge/MATLAB-Technical_Computing-orange?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Git-Version_Control-red?style=for-the-badge&logo=git" />
 </p>
-
----
-
-## Current Direction
-
-I am currently improving my programming skills through projects connected to aerospace engineering, simulation workflows, and technical problem-solving.
-
----
-
-## GitHub Purpose
-
-This profile serves as a technical portfolio for my programming projects, academic work, and engineering-related experiments.
