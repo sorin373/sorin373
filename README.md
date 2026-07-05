@@ -1,25 +1,18 @@
 <div align="center">
-
 # Sorin Andrei Tudose
-
 ## Propulsion · Structural Mechanics · Programming
-
 </div>
 
----
 I’m an Aerospace Engineering student focused on propulsion, structural mechanics, and the role of programming in solving engineering problems. This profile brings together my academic work, coding projects, and technical experiments related to analysis, simulation, and scientific computing.
-
----
 
 ## Technical Focus
 
-```text
-Aerospace Propulsion     Structural Mechanics
-Numerical Methods        Engineering Simulation
-Scientific Computing     Technical Programming
-```
-
----
+Aerospace Propulsion        Structural Mechanics
+Rocket Engine Concepts      Materials & Stress Analysis
+Numerical Methods           Engineering Simulation
+Scientific Computing        Programming for Engineering
+Data Analysis               Simulation Workflows
+Python / C++ / MATLAB       Technical Problem Solving
 
 ## Tools & Languages
 
