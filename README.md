@@ -1,35 +1,50 @@
-<h1 align="center">Sorin-Andrei Tudose</h1>
-<p align="center">Aerospace engineering student, Bucharest 🇷🇴</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://sorin373.github.io/">portfolio</a> ·
-  <a href="https://leetcode.com/u/Sorin373">leetcode</a>
+# Sorin Andrei Tudose
+
+### Aerospace Engineering Student
+
+### Propulsion · Structural Mechanics · Engineering Programming
+
+</div>
+
+---
+
+## About Me
+
+I am an Aerospace Engineering student interested in propulsion, structural mechanics, and the use of programming for engineering applications.
+
+My GitHub is a place where I document academic projects, programming work, and small technical tools related to engineering analysis, simulation, and scientific computing.
+
+---
+
+## Technical Focus
+
+```text
+Aerospace Propulsion     Structural Mechanics
+Numerical Methods        Engineering Simulation
+Scientific Computing     Technical Programming
+```
+
+---
+
+## Tools & Languages
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-Programming-blue?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/C++-Programming-blue?style=for-the-badge&logo=cplusplus" />
+  <img src="https://img.shields.io/badge/MATLAB-Technical_Computing-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Git-Version_Control-red?style=for-the-badge&logo=git" />
 </p>
 
-<br>
+---
 
-I'm studying aerospace engineering at UPB, working on spacecraft structures and currently specializing in propulsion. Part of the ROSPIN-SAT-1 CubeSat mission, doing AIV (assembly, integration & verification) work.
+## Current Direction
 
-Outside of that, I write a lot of C/C++ and Fortran90 for numerical and structural problems, and pick up Python and JS/TS for everything else.
+I am currently improving my programming skills through projects connected to aerospace engineering, simulation workflows, and technical problem-solving.
 
-<br>
+---
 
-### Currently working on
-- Spacecraft structural design & propulsion coursework
-- CubeSat AIV for ROSPIN-SAT-1
-- [CPP-Custom-STL](https://github.com/sorin373/CPP-Custom-STL) — reimplementing C++17 STL containers from scratch
+## GitHub Purpose
 
-<br>
-
-### A few repos
-- [**CPP-Custom-STL**](https://github.com/sorin373/CPP-Custom-STL) — custom STL containers, allocator-aware
-- [**HTTP-Server**](https://github.com/sorin373/HTTP-Server) — HTTP server for local file transfer
-- [**Gamejam-2022**](https://github.com/sorin373/Gamejam-2022) — won the #Everygamercounts game jam
-- [**SpeedyGo**](https://github.com/sorin373/SpeedyGo) — graph algorithms
-
-<br>
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=sorin373&show_icons=true&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sorin373&layout=compact&hide_border=true" />
-</p>
+This profile serves as a technical portfolio for my programming projects, academic work, and engineering-related experiments.
