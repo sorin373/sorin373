@@ -1,29 +1,46 @@
-<div align="center">
+# Sorin-Andrei Tudose
 
-# Sorin Andrei Tudose
+**Aerospace Engineering Student | Spacecraft Structures | Propulsion | Engineering Software**
 
-## Propulsion · Structural Mechanics · Programming
+I am an Aerospace Engineering student at the **University POLITEHNICA of Bucharest** and a **Spacecraft Structures Engineering Apprentice** within the **ROSPIN-SAT-1 CubeSat mission**.
 
-</div>
+My work and projects focus on the intersection between aerospace engineering, mathematical modelling, embedded systems, and technical software development. I am particularly interested in propulsion systems, spacecraft structures, CubeSat development, and engineering simulation.
 
-I’m an Aerospace Engineering student focused on propulsion, structural mechanics, and the role of programming in solving engineering problems. This profile brings together my academic work, coding projects, and technical experiments related to analysis, simulation, and scientific computing.
 
-## Technical Focus
+## Areas of Interest
 
-| Aerospace Engineering | Programming & Simulation |
-|---|---|
-| Aerospace propulsion | Python / C++ / MATLAB |
-| Rocket engine fundamentals | Numerical methods |
-| Structural mechanics | Engineering simulation |
-| Materials & stress analysis | Scientific computing |
-| Technical problem solving | Data analysis |
-| Simulation workflows | Programming for engineering |
+- Aerospace propulsion
+- Spacecraft structures
+- CubeSat systems
+- Structural mechanics
+- Numerical methods
+- Embedded systems
+- Engineering simulation
 
-## Tools & Languages
+## Selected Work
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-Programming-blue?style=flat-square&logo=python" />
-  <img src="https://img.shields.io/badge/C++-Programming-blue?style=flat-square&logo=cplusplus" />
-  <img src="https://img.shields.io/badge/MATLAB-Technical_Computing-orange?style=flat-square" />
-  <img src="https://img.shields.io/badge/Git-Version_Control-red?style=flat-square&logo=git" />
-</p>
+| Project | Description | Technologies |
+|---|---|---|
+| [Astronomical Tracking Mount](https://github.com/sorin373/SCSS_OM) | Celestial tracking system combining mathematical modelling, C++ trajectory estimation, Python simulation, Arduino electronics, and mechanical mount design. | C++, Python, Arduino, CATIA |
+| [PiuPiuDefense Simulation Backend](https://github.com/sorin373/European-Defense-Tech-Hackathon) | C++ 2D kinematic simulation backend developed during the European Defense Tech Hackathon, Sweden Edition. | C++, Python, Simulation |
+| [Custom C++ STL Containers](https://github.com/sorin373/CPP-Custom-STL) | Educational implementation of selected STL-style containers focused on memory management, iterators, and data structures. | C++17, CMake |
+| [Numerical Methods for Engineering](https://github.com/sorin373/Metode-Numerice) | Numerical methods implemented for engineering applications, including interpolation, regression, differential equations, and aerodynamic profile reconstruction. | Fortran, Python |
+
+## Technical Skills
+
+**Programming:** C++, Python, MATLAB, Fortran 90, SQL  
+**Engineering Tools:** CATIA V5, AutoCAD, ANSYS Mechanical / Fluent  
+**Development Tools:** Git, Linux, CMake, LaTeX  
+**Embedded Systems:** Arduino, servo control, Bluetooth communication  
+**Engineering:** spacecraft structures, propulsion fundamentals, numerical modelling, structural mechanics, technical drawing
+
+## Background
+
+- Spacecraft Structures Engineering Apprentice — ROSPIN-SAT-1 CubeSat mission
+- Licensed ULM pilot trained on the Savannah-S ultralight aircraft
+- Aircraft maintenance internship involving piston aircraft engine installation and ground-test preparation
+- Third place award for an astronomical tracking mount engineering project
+
+## Contact
+
+[LinkedIn](https://www.linkedin.com/in/sorin-andrei-tudose-b5a931246/) · [GitHub](https://github.com/sorin373)
