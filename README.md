@@ -43,4 +43,4 @@ My work and projects focus on the intersection between aerospace engineering, ma
 
 ## Contact
 
-[LinkedIn](https://www.linkedin.com/in/sorin-andrei-tudose-b5a931246/) · [GitHub](https://github.com/sorin373)
+[LinkedIn](https://www.linkedin.com/in/sorin-andrei-tudose-b5a931246/)
