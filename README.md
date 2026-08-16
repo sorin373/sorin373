@@ -1,46 +1,35 @@
 # Sorin-Andrei Tudose
 
-**Aerospace Engineering Student | Spacecraft Structures | Propulsion | Engineering Software**
+Aerospace Engineering student at the **University POLITEHNICA of Bucharest**, currently working on **spacecraft structures for the ROSPIN-SAT-1 CubeSat mission**.
 
-I am an Aerospace Engineering student at the **University POLITEHNICA of Bucharest** and a **Spacecraft Structures Engineering Apprentice** within the **ROSPIN-SAT-1 CubeSat mission**.
+I'm interested in the engineering of things that **fly**.
 
-My work and projects focus on the intersection between aerospace engineering, mathematical modelling, embedded systems, and technical software development. I am particularly interested in propulsion systems, spacecraft structures, CubeSat development, and engineering simulation.
+I want to push spacecraft beyond conventional propulsion — through research in plasma propulsion and the physics that makes it possible.
 
+My work spans **spacecraft structures, propulsion, numerical modelling, embedded systems, and engineering simulation**, mostly using C++, Python, MATLAB, Fortran, CATIA and ANSYS.
 
-## Areas of Interest
+### Selected work
 
-- Aerospace propulsion
-- Spacecraft structures
-- CubeSat systems
-- Structural mechanics
-- Numerical methods
-- Embedded systems
-- Engineering simulation
+---
 
-## Selected Work
+**[Astronomical Tracking Mount](https://github.com/sorin373/SCSS_OM)**  
+A physical celestial tracking system built from the mathematics up — trajectory estimation in C++, simulation in Python, Arduino-based control, and mechanical design in CATIA. **3rd place engineering project.**
 
-| Project | Description | Technologies |
-|---|---|---|
-| [Astronomical Tracking Mount](https://github.com/sorin373/SCSS_OM) | Celestial tracking system combining mathematical modelling, C++ trajectory estimation, Python simulation, Arduino electronics, and mechanical mount design. | C++, Python, Arduino, CATIA |
-| [PiuPiuDefense Simulation Backend](https://github.com/sorin373/European-Defense-Tech-Hackathon) | C++ 2D kinematic simulation backend developed during the European Defense Tech Hackathon, Sweden Edition. | C++, Python, Simulation |
-| [Custom C++ STL Containers](https://github.com/sorin373/CPP-Custom-STL) | Educational implementation of selected STL-style containers focused on memory management, iterators, and data structures. | C++17, CMake |
-| [Numerical Methods for Engineering](https://github.com/sorin373/Metode-Numerice) | Numerical methods implemented for engineering applications, including interpolation, regression, differential equations, and aerodynamic profile reconstruction. | Fortran, Python |
+**[PiuPiuDefense](https://github.com/sorin373/European-Defense-Tech-Hackathon)**  
+A 2D kinematic simulation backend written in C++ during the European Defense Tech Hackathon, Sweden Edition.
 
-## Technical Skills
+**[Numerical Methods for Engineering](https://github.com/sorin373/Metode-Numerice)**  
+Numerical methods applied to engineering problems, from differential equations and regression to aerodynamic profile reconstruction.
 
-**Programming:** C++, Python, MATLAB, Fortran 90, SQL  
-**Engineering Tools:** CATIA V5, AutoCAD, ANSYS Mechanical / Fluent  
-**Development Tools:** Git, Linux, CMake, LaTeX  
-**Embedded Systems:** Arduino, servo control, Bluetooth communication  
-**Engineering:** spacecraft structures, propulsion fundamentals, numerical modelling, structural mechanics, technical drawing
+**[C++ STL Containers](https://github.com/sorin373/CPP-Custom-STL)**  
+Implementing STL-style containers from scratch to better understand memory, iterators, and data structures.
 
-## Background
+---
 
-- Spacecraft Structures Engineering Apprentice — ROSPIN-SAT-1 CubeSat mission
-- Licensed ULM pilot trained on the Savannah-S ultralight aircraft
-- Aircraft maintenance internship involving piston aircraft engine installation and ground-test preparation
-- Third place award for an astronomical tracking mount engineering project
+Outside software, I'm a **licensed ULM pilot**, trained on the Savannah-S, and have hands-on aircraft maintenance experience involving piston-engine installation and ground-test preparation.
 
-## Contact
+---
 
 [LinkedIn](https://www.linkedin.com/in/sorin-andrei-tudose-b5a931246/)
+
+Ad astra per aspera.
