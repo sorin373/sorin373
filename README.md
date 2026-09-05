@@ -8,8 +8,6 @@ I want to push spacecraft beyond conventional propulsion — through research in
 
 My work spans **spacecraft structures, propulsion, numerical modelling, embedded systems, and engineering simulation**, mostly using C++, Python, MATLAB, Fortran, CATIA and ANSYS.
 
----
-
 Outside software, I'm a **licensed ULM pilot**, trained on the Savannah-S, and have hands-on aircraft maintenance experience involving piston-engine installation and ground-test preparation.
 
 ---
